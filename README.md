@@ -1,6 +1,7 @@
 # Cloud-Security
 
 What is cloud security?
+
 Cloud security refers to the safety guidelines, technology, and best practices used to protect sensitive data stored within the cloud from unauthorized access. 
 When data is stored in the cloud, it’s stored on the servers of the cloud service provider (CSP) rather than on the user's local device.
 
@@ -9,11 +10,13 @@ The CSP offering the cloud service is responsible for monitoring and responding 
 This means it’s up to users—whether they’re businesses or individuals using a cloud-based service—to follow best practices to protect their data in the event of data leakage or theft. 
 
 Why is cloud security important?
+
 Cloud security is important for protecting the cloud data we want and need to access daily. From sensitive remote work files to priceless home photos and videos, there’s a lot of information worth safeguarding.
 
 It’s also important for businesses, as data breaches could lead to serious consequences such as legal action and reputation damage. As more and more organizations move their data and applications to the cloud, cloud security will continue to be a critical concern.
 
-Benefits of cloud security 
+Benefits of cloud security
+
 As you might expect, cloud security has several benefits for both individuals and businesses. Here’s just a few reasons why cloud security is so beneficial. 
 
 Protection of sensitive data
